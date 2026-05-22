@@ -3,7 +3,7 @@
    app.js · v2.1 — STABLE PATCH
    ══════════════════════════════════════════════════════════ */
 
-const API = "http://127.0.0.1:8000";
+const API = "https://triageflow-ai-ooy4.onrender.com";
 const TRIAGEFLOW_STATE_KEY = "triageflow.ui.state.v2";
 
 // ── Stable frontend state ─────────────────────────────────
