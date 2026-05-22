@@ -1,0 +1,15 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+.vscode/
+
+patients.db
+*.db-journal
+*.sqlite3
+
+backend/datasets/

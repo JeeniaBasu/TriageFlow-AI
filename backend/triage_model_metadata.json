@@ -1,0 +1,41 @@
+{
+  "model_type": "RandomForestClassifier",
+  "model_version": "v4.0-expanded-synthea-governance",
+  "trained_at": "2026-05-22T08:29:03.296354+00:00",
+  "training_rows": 61459,
+  "data_source": "synthea_csv_ehr_expanded",
+  "features": [
+    "age",
+    "sex",
+    "temperature",
+    "heart_rate",
+    "respiratory_rate",
+    "spo2",
+    "systolic_bp",
+    "diastolic_bp",
+    "pain_score",
+    "fever",
+    "chest_pain",
+    "breathing",
+    "headache",
+    "fatigue",
+    "vomiting",
+    "bleeding",
+    "seizure",
+    "confusion",
+    "abdominal_pain",
+    "weakness",
+    "diabetes",
+    "hypertension",
+    "asthma_copd",
+    "heart_disease"
+  ],
+  "labels": {
+    "0": "Low",
+    "1": "Medium",
+    "2": "High",
+    "3": "Critical"
+  },
+  "test_accuracy": 0.8243,
+  "target_note": "Urgency labels are derived from Synthea encounter context, vitals, symptoms, comorbidities, and rule-based triage risk scoring."
+}
