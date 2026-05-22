@@ -368,12 +368,22 @@ Render's free tier spins down instances after inactivity — the first request a
 
 ## Screenshots & Demo
 
-Screenshots to be added:
-- Live triage intake UI
-- Decision trace output
-- Reliability dashboard
-- Override workflow
-- Drift analysis view
+### Live Triage Intake
+![Live Triage UI](./screenshots/triage-ui.png)
+
+### Decision Trace
+![Decision Trace](./screenshots/decision-trace-1.png)
+
+![Decision Trace](./screenshots/decision-trace-2.png)
+
+### Physician Override Workflow
+![Override Workflow](./screenshots/override-workflow.png)
+
+### Reliability Dashboard
+![Reliability Dashboard](./screenshots/model-evaluation-dashboard.png)
+
+### Drift Analysis
+![Drift Analysis](./screenshots/drift-analysis.png)
 
 Demo video coming soon.
 
