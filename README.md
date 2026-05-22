@@ -422,8 +422,9 @@ TriageFlow AI is an end-to-end prototype built around these questions. It demons
 
 ---
 
-## Contact
+## Author
 
 **Jeenia Basu**  
+LinkedIn: [linkedin.com/JeeniaBasu](www.linkedin.com/in/jeenia-basu-581621327)   
 GitHub: [github.com/JeeniaBasu](https://github.com/JeeniaBasu)  
 Live Project: [triageflow-ai.netlify.app](https://triageflow-ai.netlify.app/)
