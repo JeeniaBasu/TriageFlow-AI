@@ -392,7 +392,7 @@ Render's free tier spins down instances after inactivity — the first request a
 ⚙️ Backend API Docs: https://triageflow-ai-ooy4.onrender.com/docs
 
 🎥 Full Product Walkthrough Video:
-https://drive.google.com/file/d/1Kmf-dxqT9tq4_4SLRI4RoOXnWqBUWDuV/view?usp=drive_link
+https://drive.google.com/file/d/1jcx7OdynlXGl49l6nInoimfmLC4XvF9T/view?usp=drivesdk
 
 ---
 
