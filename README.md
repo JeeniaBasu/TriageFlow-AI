@@ -5,7 +5,7 @@
 A healthcare AI system built to demonstrate the infrastructure layer *around* triage prediction — explainability, human override, audit logging, drift analysis, and feedback loops.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-triageflow--ai.netlify.app-0ea5e9?style=flat-square)](https://triageflow-ai.netlify.app/)
-[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-Google%20Drive-red?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1jcx7OdynlXGl49l6nInoimfmLC4XvF9T/view?usp=drivesdk)
+[![Watch Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red?style=flat-square&logo=youtube&logoColor=white)](https://youtu.be/YdBTU-2KlEg?si=M5rnrfzGGxu0Aaji)
 [![API Docs](https://img.shields.io/badge/API%20Docs-Swagger%20UI-10b981?style=flat-square)](https://triageflow-ai-ooy4.onrender.com/docs)
 [![Backend](https://img.shields.io/badge/Backend-Render-6366f1?style=flat-square)](https://triageflow-ai-ooy4.onrender.com)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -392,7 +392,7 @@ Render's free tier spins down instances after inactivity — the first request a
 ⚙️ Backend API Docs: https://triageflow-ai-ooy4.onrender.com/docs
 
 🎥 Full Product Walkthrough Video:
-https://drive.google.com/file/d/1jcx7OdynlXGl49l6nInoimfmLC4XvF9T/view?usp=drivesdk
+https://youtu.be/YdBTU-2KlEg?si=8itqq46oUTHIqmCQ
 
 ---
 
